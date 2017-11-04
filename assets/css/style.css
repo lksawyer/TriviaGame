@@ -1,0 +1,22 @@
+.row {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-color: white;
+}
+
+#results {
+	display: none;
+}
+
+li {
+	cursor: pointer;
+}
+
+li:hover {
+	font-style: italic;
+}
+
+.userGuess {
+	font-weight: bold;
+}
